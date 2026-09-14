@@ -6,7 +6,7 @@ A DIY robot arm build based on \[TheRobotStudio's SO-101](https://github.com/The
 
 
 
-!\[task demo](media/task\_demo.gif)
+![task demo](media/task\_demo.gif)
 
 
 
@@ -38,7 +38,7 @@ Two 6-DOF robot arms — a "leader" moved by hand, and a "follower" that mirrors
 
 
 
-!\[workspace](media/workspace.jpg)
+![workspace](media/workspace.jpg)
 
 
 
@@ -50,9 +50,9 @@ Both arms mounted on the desk, camera fixed overhead, task objects in frame.
 
 
 
-!\[leader arm](media/leader\_arm.jpg)
+![leader arm](media/leader\_arm.jpg)
 
-!\[follower arm](media/follower\_arm.jpg)
+![follower arm](media/follower\_arm.jpg)
 
 
 
@@ -60,11 +60,11 @@ Both arms mounted on the desk, camera fixed overhead, task objects in frame.
 
 
 
-!\[teleop demo 1](media/teleop\_1.jpg)
+![teleop demo 1](media/teleop\_1.jpg)
 
-!\[teleop demo 2](media/teleop\_2.jpg)
+![teleop demo 2](media/teleop\_2.jpg)
 
-!\[teleop demo video](media/teleop\_demo.gif)
+![teleop demo video](media/teleop\_demo.gif)
 
 
 
